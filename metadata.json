@@ -1,0 +1,8 @@
+{
+  "name": "MontaFácil - Gestão para Montadores de Móveis",
+  "description": "Aplicativo completo para gestão de serviços, agendamentos, clientes, orçamentos e relatórios para montadores de móveis.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
